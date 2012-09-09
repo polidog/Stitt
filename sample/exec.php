@@ -1,5 +1,5 @@
 <?php
-require 'Stitt.php';
+require '../src/Stitt.php';
 
 
 $stitt = new Stitt();
